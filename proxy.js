@@ -1,3 +1,4 @@
+cd /opt/render/project/src
 const http = require('http');
 const httpProxy = require('http-proxy');
 
